@@ -1,8 +1,8 @@
 ### Olá, sou André Souza!
 
 
-- 🔭 Trabalhando atualmente com flutter!
-- 🌱 Estudando SQL e Python!
+- 🔭 Trabalhando atualmente como Analista de Sistemas!
+- 🌱 Estudando sempre!
 
 <div align="center">
   <a href="https://github.com/AndreSouzaTI">
