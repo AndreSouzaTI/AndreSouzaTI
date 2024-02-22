@@ -1,8 +1,8 @@
 ### Olá, sou André Souza!
 
 
-- 🔭 Trabalhando atualmente como Analista de Sistemas!
-- 🌱 Estudando sempre!
+- 🔭 Atualmente a procura de uma vaga de Desenvolvedor ou Analista de sistemas!
+- 🌱 Estudando sempre! Neste momento criando projetos para o portifólio!
 
 <div align="center">
   <a href="https://github.com/AndreSouzaTI">
