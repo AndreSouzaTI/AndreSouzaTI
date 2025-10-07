@@ -1,8 +1,36 @@
-### Olá, sou André Souza!
+# 👋 Olá, eu sou o André Souza!
 
+Sou um desenvolvedor **Fullstack Java & Python** com foco em **Back-end** e experiência em criar aplicações completas, seguras e escaláveis.  
+Apaixonado por aprender e transformar ideias em soluções reais.
 
-- 🔭 Atualmente a procura de uma vaga de Desenvolvedor ou Analista de sistemas!
-- 🌱 Estudando sempre! Neste momento criando projetos para o portifólio!
+---
+
+## 🧠 Tecnologias que utilizo
+
+### 💻 Back-end
+- Java (Spring Boot, Maven, JPA, Hibernate)
+- Python (FastAPI, Flask, SQLAlchemy)
+- Banco de Dados: PostgreSQL, MySQL, SQL
+- Docker, CI/CD, testes automatizados
+
+### 🎨 Front-end
+- React (Java stack)
+- HTML, CSS, JavaScript, TypeScript
+- Consumo de APIs REST
+
+---
+
+## 🚀 Portfólio de Projetos
+
+🟢 **Projetos Java Fullstack**
+- 5 básicos | 5 intermediários | 3 avançados
+
+🟣 **Projetos Python Fullstack**
+- 5 básicos | 5 intermediários | 3 avançados
+
+*(Todos com README explicativo, passo a passo e código bem estruturado.)*
+
+---
 
 <div align="center">
   <a href="https://github.com/AndreSouzaTI">
@@ -13,7 +41,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Deco-FT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Deco-DT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
   <img align="center" alt="Deco-JV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Deco-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
  </div>
@@ -27,6 +54,6 @@
    
    
    
-
+⭐ *Aprimorando a cada commit. Curioso, metódico e um pouco obcecado por boas práticas.*
    
           
