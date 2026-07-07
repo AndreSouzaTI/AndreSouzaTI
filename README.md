@@ -19,13 +19,21 @@ Desenvolvedor Backend Java apaixonado por construir aplicações escaláveis uti
 Tecnologias
 
 Java
+
 Spring Boot
+
 SQL Server
+
 Oracle
+
 MySQL
+
 Docker
+
 Git
+
 Azure
+
 
 Projetos em destaque
 
