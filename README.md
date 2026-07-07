@@ -2,12 +2,17 @@
 
 Desenvolvedor Backend Java apaixonado por construir aplicações escaláveis utilizando Java, Spring Boot e bancos de dados relacionais.
 
+
 🎯 Atualmente
 
 • Projeto Recolocação 180
+
 • Estudando Arquitetura Backend
+
 • Docker
+
 • Azure
+
 • Linux
 
 Tecnologias
