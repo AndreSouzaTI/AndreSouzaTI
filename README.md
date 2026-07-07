@@ -1,36 +1,35 @@
-# 👋 Olá, eu sou o André Souza!
+# Olá, eu sou André Souza.
 
-Sou um desenvolvedor **Fullstack Java & Python** com foco em **Back-end** e experiência em criar aplicações completas, seguras e escaláveis.  
-Apaixonado por aprender e transformar ideias em soluções reais.
+Desenvolvedor Backend Java apaixonado por construir aplicações escaláveis utilizando Java, Spring Boot e bancos de dados relacionais.
 
----
+🎯 Atualmente
 
-## 🧠 Tecnologias que utilizo
+• Projeto Recolocação 180
+• Estudando Arquitetura Backend
+• Docker
+• Azure
+• Linux
 
-### 💻 Back-end
-- Java (Spring Boot, Maven, JPA, Hibernate)
-- Python (FastAPI, Flask, SQLAlchemy)
-- Banco de Dados: PostgreSQL, MySQL, SQL
-- Docker, CI/CD, testes automatizados
+Tecnologias
 
-### 🎨 Front-end
-- React (Java stack)
-- HTML, CSS, JavaScript, TypeScript
-- Consumo de APIs REST
+Java
+Spring Boot
+SQL Server
+Oracle
+MySQL
+Docker
+Git
+Azure
 
----
+Projetos em destaque
 
-## 🚀 Portfólio de Projetos
+Sistema Financeiro (em desenvolvimento)
 
-🟢 **Projetos Java Fullstack**
-- 5 básicos | 5 intermediários | 3 avançados
+Sistema de RH
 
-🟣 **Projetos Python Fullstack**
-- 5 básicos | 5 intermediários | 3 avançados
+API de Gerenciamento de Usuários
 
-*(Todos com README explicativo, passo a passo e código bem estruturado.)*
-
----
+Portfólio Java Enterprise
 
 <div align="center">
   <a href="https://github.com/AndreSouzaTI">
