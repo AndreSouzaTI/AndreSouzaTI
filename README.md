@@ -15,6 +15,7 @@ Desenvolvedor Backend Java apaixonado por construir aplicações escaláveis uti
 
 • Linux
 
+
 Tecnologias
 
 Java
