@@ -10,11 +10,11 @@ Tenho experiência em ambiente corporativo de saúde, com aplicações Java inte
 
 ### 🛠️ Stack
 
-**Back-end:** Java 21 · Spring Boot · Spring Security (JWT) · Spring Data JPA / Hibernate · Spring Cloud (Gateway, Eureka, Resilience4j) · APIs REST · RabbitMQ
-**Banco de dados:** PostgreSQL · Oracle · MySQL · Flyway
-**Front-end:** Angular · React · TypeScript · HTML/CSS
-**Testes:** JUnit 5 · Mockito · Testcontainers · Vitest
-**DevOps e ferramentas:** Docker · Docker Compose · GitHub Actions (CI) · Git · Maven · Swagger/OpenAPI
+- **Back-end:** Java 21 · Spring Boot · Spring Security (JWT) · Spring Data JPA / Hibernate · Spring Cloud (Gateway, Eureka, Resilience4j) · APIs REST · RabbitMQ
+- **Banco de dados:** PostgreSQL · Oracle · MySQL · Flyway
+- **Front-end:** Angular · React · TypeScript · HTML/CSS
+- **Testes:** JUnit 5 · Mockito · Testcontainers · Vitest
+- **DevOps e ferramentas:** Docker · Docker Compose · GitHub Actions (CI) · Git · Maven · Swagger/OpenAPI
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
