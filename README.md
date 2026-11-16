@@ -38,8 +38,9 @@ I have corporate experience in healthcare, building Java applications integrated
 | [**ecommerce-microservices**](https://github.com/AndreSouzaTI/ecommerce-microservices) | Microservices with an API Gateway, service discovery, a choreographed saga over RabbitMQ, idempotency and a circuit breaker | Spring Cloud Gateway, Eureka, RabbitMQ, Resilience4j, PostgreSQL, Docker Compose |
 | [**task-manager-fullstack**](https://github.com/AndreSouzaTI/task-manager-fullstack) | Full stack Kanban board with authentication, filters and optimistic updates | Angular 22, TypeScript, Spring Boot, PostgreSQL, nginx, Docker |
 | [**finance-tracker-fullstack**](https://github.com/AndreSouzaTI/finance-tracker-fullstack) | Personal finance tracker with a dashboard and aggregations computed in the database | React 19, TypeScript, Recharts, Spring Boot, PostgreSQL, Docker |
+| [**poker-lab**](https://github.com/AndreSouzaTI/poker-lab) · [▶ play](https://andresouzati.github.io/poker-lab/) | Texas Hold'em trainer against 5 AI opponents, with a coach showing equity (Monte Carlo), pot odds, outs and the recommended play. Open to suggestions | JavaScript (no framework), Web Audio API, node:test, GitHub Actions, GitHub Pages |
 
-Every project has a README with setup instructions, starts with `docker compose up` and runs automated tests on GitHub Actions on every push.
+Every project has a README with setup instructions and runs automated tests on GitHub Actions on every push; the back-end projects start with `docker compose up`.
 
 ---
 
